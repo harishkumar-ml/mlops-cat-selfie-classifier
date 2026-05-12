@@ -1,5 +1,5 @@
 # mlops-cat-selfie-classifier
-AI-powered Cat Selfie Classifier using Machine Learning and MLOps concepts.
+Developed a machine learning-based image classification project using Python and Jupyter Notebook to classify cat selfie images while learning MLOps workflow concepts
 ## 🚀 Project Overview
 This project uses machine learning techniques to classify cat selfie images and demonstrate basic MLOps workflow concepts.
 ## 🛠 Technologies Used
